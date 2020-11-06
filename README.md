@@ -38,7 +38,7 @@
 
 <div align="center">
     <h3>Let's connect</h3>
-    <a href="www.linkedin.com/in/rahul-prajapati-5017ab14a">
+    <a href="https://www.linkedin.com/in/rahul-prajapati-5017ab14a">
         <img src="https://img.icons8.com/dusk/128/000000/linkedin.png" width="50"/>
     </a>
 </div>
