@@ -1,6 +1,17 @@
-<!--<div align="center">
-    <img src="https://www.open.edu/openlearn/ocw/pluginfile.php/1210041/mod_resource/content/0/mss_1_olhp_786x400.jpg" width="300"/>
-</div>-->
+Hi Folks :v: :wave:
+--------------------------
+
+I'm Rahul Prajapati He Who Must Not Be Named" :stuck_out_tongue_closed_eyes:. Currently I'm studying at University of Nebraska Lincoln. 
+
+:zap: Working as a IT Intern at awesome company Nelnet, Lincoln NE
+:eyes: Looking for Full time Job.
+
+##### My interest
+* Web Developer
+* Data Scientist 
+* Machine learning engineer 
+* Cloud Architect
+* Market Researcher
 
 <div align="center">
     <h3>Language</h3> 
@@ -38,7 +49,7 @@
 
 <div align="center">
     <h3>Let's connect</h3>
-    <a href="https://www.linkedin.com/in/rahul-prajapati-5017ab14a">
+    <a href="www.linkedin.com/in/rahul-prajapati-5017ab14a">
         <img src="https://img.icons8.com/dusk/128/000000/linkedin.png" width="50"/>
     </a>
 </div>
