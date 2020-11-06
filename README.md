@@ -2,17 +2,15 @@
     <img src="https://www.open.edu/openlearn/ocw/pluginfile.php/1210041/mod_resource/content/0/mss_1_olhp_786x400.jpg" width="300"/>
 </div>-->
 
-
-### Language
 <div align="center">
+    <h3>Language</h3> 
     <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
     <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
 </div>
 
-### Tool and Framework
-
 <div align="center">
+    <h3>Tool and Framework</h3>
     <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
     <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
     <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
@@ -39,8 +37,10 @@
 </div>
 
 <div align="center">
-    <h4>Let's connect</h4>
+    <h3>Let's connect</h3>
     <a href="www.linkedin.com/in/rahul-prajapati-5017ab14a">
         <img src="https://img.icons8.com/dusk/128/000000/linkedin.png" width="50"/>
     </a>
 </div>
+
+
