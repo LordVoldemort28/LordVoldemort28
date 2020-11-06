@@ -7,7 +7,7 @@ I'm Rahul Prajapati "He Who Must Not Be Named" :stuck_out_tongue_closed_eyes:. C
 
 :eyes: Looking for Full time Job.
 
-#### My interest
+### My interest
 * Web Developer
 * Data Scientist 
 * Machine learning engineer 
